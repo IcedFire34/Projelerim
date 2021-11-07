@@ -1,3 +1,1 @@
--------------------
--------------------
--------------------
+It is a tool written for unique Nicks. It is simple to use. You can share your shortcomings and suggestions.
