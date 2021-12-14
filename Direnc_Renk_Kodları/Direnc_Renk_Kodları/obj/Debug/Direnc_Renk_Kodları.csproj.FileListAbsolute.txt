@@ -1,0 +1,10 @@
+C:\Users\omarf\source\repos\Direnc_Renk_Kodları\Direnc_Renk_Kodları\bin\Debug\Direnc_Renk_Kodları.exe.config
+C:\Users\omarf\source\repos\Direnc_Renk_Kodları\Direnc_Renk_Kodları\bin\Debug\Direnc_Renk_Kodları.exe
+C:\Users\omarf\source\repos\Direnc_Renk_Kodları\Direnc_Renk_Kodları\bin\Debug\Direnc_Renk_Kodları.pdb
+C:\Users\omarf\source\repos\Direnc_Renk_Kodları\Direnc_Renk_Kodları\obj\Debug\Direnc_Renk_Kodları.csprojAssemblyReference.cache
+C:\Users\omarf\source\repos\Direnc_Renk_Kodları\Direnc_Renk_Kodları\obj\Debug\Direnc_Renk_Kodları.Form1.resources
+C:\Users\omarf\source\repos\Direnc_Renk_Kodları\Direnc_Renk_Kodları\obj\Debug\Direnc_Renk_Kodları.Properties.Resources.resources
+C:\Users\omarf\source\repos\Direnc_Renk_Kodları\Direnc_Renk_Kodları\obj\Debug\Direnc_Renk_Kodları.csproj.GenerateResource.cache
+C:\Users\omarf\source\repos\Direnc_Renk_Kodları\Direnc_Renk_Kodları\obj\Debug\Direnc_Renk_Kodları.csproj.CoreCompileInputs.cache
+C:\Users\omarf\source\repos\Direnc_Renk_Kodları\Direnc_Renk_Kodları\obj\Debug\Direnc_Renk_Kodları.exe
+C:\Users\omarf\source\repos\Direnc_Renk_Kodları\Direnc_Renk_Kodları\obj\Debug\Direnc_Renk_Kodları.pdb
