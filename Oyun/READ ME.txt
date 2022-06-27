@@ -1,0 +1,1 @@
+Bu oyun openGL ve freeglut kütüphaneleri kullanılarak oluşturulmuştur
