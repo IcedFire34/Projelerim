@@ -1,0 +1,44 @@
+﻿  main.cpp
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(171,19): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(171,16): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(172,22): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(172,18): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(173,24): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(173,18): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(175,24): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(175,18): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(176,25): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(176,18): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(177,22): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(177,16): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(188,26): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(189,18): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(190,18): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(191,18): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(192,18): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(196,18): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(197,18): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(198,45): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(198,18): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(214,21): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(230,22): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(231,47): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(231,19): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(232,47): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(232,19): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(233,47): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(233,19): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(234,47): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(234,19): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(262,26): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(262,15): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(263,31): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(263,25): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(264,41): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(264,25): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(265,36): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(265,15): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(334,42): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(403,48): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\omarf\source\repos\Oyun\Oyun\main.cpp(404,30): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  Oyun.vcxproj -> C:\Users\omarf\source\repos\Oyun\Debug\Oyun.exe
