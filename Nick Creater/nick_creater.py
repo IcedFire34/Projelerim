@@ -6,10 +6,10 @@ try:
 except:
     print("Please enter number !")
     exit("Invalid Character")
-result=[]
+results=[]
 for i in range(0,number):
     nick=""
     for i in range(0,nick_lenght):
         nick=nick+letter[int(random.random()*26)]
-    result.append(nick)
-print(result)
+    results.append(nick)
+print(results)
